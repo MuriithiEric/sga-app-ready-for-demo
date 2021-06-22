@@ -1,0 +1,13 @@
+{
+  "appId": "com.em.sgasecurityreceiptscanner",
+  "appName": "OCR Receipt Tracker",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
